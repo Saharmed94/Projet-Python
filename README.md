@@ -1,6 +1,8 @@
 # Sahardid Mohamed Houssein
 Exercice 1:
 On n'a travaillé sur le jeu de vie.
+D'abord nous avons appliquer des fonctions qui permettent de calculer le nombre de voisins et le nombre d'itération
+sur une liste de liste que j'ai commenté par la suite.
 Nous avons réaliser des fonctions pour répresenter l'évolution du jeu de vie graphiquement.
 
 Exercice2: Nous avons travailler sur le jeu de donnée MNIST.
