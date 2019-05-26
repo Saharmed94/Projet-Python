@@ -9,4 +9,4 @@ Exercice2: Nous avons travailler sur le jeu de donnée MNIST.
 Nous avons d'abord effectuer une selection sur nos donnée que sur les images 3 et 7 pour les visualiser.
 Aprés nous avons réalisé une régression logistique en decoupant nos donnée en deux.
 Une partie pour l'apprentissage et une autre partie pour le test.
-ET avons aussi effectué une ACP sur les données.
+ET pour finir nous avons aussi effectué une ACP sur les données.
